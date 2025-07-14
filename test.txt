@@ -1,4 +1,4 @@
 AmityuniversityBangalore
 Batch:10
 AmityuniversityBengalore
-Batch:11
+Batch:10
